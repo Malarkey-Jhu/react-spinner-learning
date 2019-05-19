@@ -1,9 +1,3 @@
-console.log('Hos')
+import React from 'react'
 
-function add() {}
-
-add()
-
-function minus() {}
-
-minus()
+export default () => <div>Hello World</div>

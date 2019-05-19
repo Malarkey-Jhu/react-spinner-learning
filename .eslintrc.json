@@ -16,6 +16,7 @@
   "plugins": ["babel", "import", "jsx-a11y", "react", "prettier"],
 
   "rules": {
-    "semi": ["error", "never"]
+    "semi": ["error", "never"],
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
   }
 }
