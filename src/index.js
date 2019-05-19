@@ -1,9 +1,9 @@
-console.log('Hos');
+console.log('Hos')
 
 function add() {}
 
-add();
+add()
 
 function minus() {}
 
-minus();
+minus()
